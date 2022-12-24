@@ -1,0 +1,10 @@
+cout << "id: " << "98740" << endl;
+cout << "citi: " << "Odesa" << endl;
+cout << "country: " << "UA" << endl;
+cout << "coordinates: " << endl;
+cout << "lon: 30.7326 \n lat: 46.4775" << endl;
+cout << "temperature: " << endl;
+cout << "min: " << "+3" << endl;
+cout << "max: " << "+6" << endl;
+cout << "sunrise: 07:37" << endl;
+cout << "sunset: 16:16";
